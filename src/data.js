@@ -13,7 +13,7 @@ export const projects = [
     description:
       "This is a multipage application that provides fitness related information and it is made with HTML,CSS and JavaScript.",
     image: "./fitknight.gif",
-    link: "suryansh1801.github.io/FitKnight/",
+    link: "https://github.com/suryansh1801/FitKnight",
   },
   {
     title: "DrumSet",
@@ -21,7 +21,7 @@ export const projects = [
     description:
       "This is a static Javascript driven webpage which produces drum sound of different types of drum based on the input.",
     image: "./drumset.gif",
-    link: "suryansh1801.github.io/DrumSet/",
+    link: "https://github.com/suryansh1801/DrumSet",
   },
   {
     title: "TodoList-Weather App",
