@@ -44,7 +44,7 @@ export const education = [
     name:
       "Mahatma Hansraj Modern School, Jhansi",
     image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM0MmaZTuUCMzXkOh9q6NdoW9Gzbz_05ru3CFUPMmwKw&s",
-    grade: "94%"
+    grade: "Class 12th : 94%"
     
   },
 ];
